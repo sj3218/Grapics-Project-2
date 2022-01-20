@@ -56,7 +56,7 @@ In "Lighting" tap,
 			If you choose spot light, You can change the value of inner angle, outer angle, and fall off.
 
 b.
-nothing.
+You have to add glm files in ThirdParty file.
 
 c.
 I completed all of parts in this assignment.
